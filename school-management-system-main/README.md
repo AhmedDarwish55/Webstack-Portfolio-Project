@@ -116,8 +116,8 @@ Example command:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:obaraelijah/school-management-system.git
+  cd Webstack-Portfolio-Project cd school-management-system-main
+  git clone git@github.com:AhmedDarwish55/school-management-system.git
 ```
 
 ### Install
